@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moginger.github.io/kitchen-kings/sitemap.xml
